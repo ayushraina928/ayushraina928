@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning deep learning and big data concepts. 
 - 🤝 I’m open to chat about new data science projects and research.
 - 📫 How to reach me - ayushraina.ds@gmail.com
-
-
+- 🧑‍💼 <a href="https://www.linkedin.com/in/ayush-raina/">Click here for my Linkedin Profile</a>
